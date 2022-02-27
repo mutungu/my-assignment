@@ -1,0 +1,21 @@
+.myDiv {
+    border: 5px outset red;
+    background-color: rgb(59, 137, 163);    
+    text-align: center;
+    background-color: rgb(161, 32, 32);
+   width: 300px;
+   border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+  }
+  p {
+    text-indent: 50px;
+  }
+  span {
+    color: blue;
+    border: 1px solid black;
+  }
+  
+  .extra span {
+    color: inherit;
+  }
