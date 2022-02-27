@@ -1,8 +1,8 @@
 .myDiv {
-    border: 5px outset red;
+    border: 5px outset rgb(158, 116, 116);
     background-color: rgb(59, 137, 163);    
     text-align: center;
-    background-color: rgb(161, 32, 32);
+    background-color: rgb(189, 132, 132);
    width: 300px;
    border: 15px solid green;
     padding: 50px;
